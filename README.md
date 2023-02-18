@@ -8,3 +8,6 @@ version dynamique 1
 ![image](https://user-images.githubusercontent.com/101254724/218584971-3d4a8e6f-f5bc-420f-89bf-ec49f96ec09f.png)
 version dynamique 2
 ![image](https://user-images.githubusercontent.com/101254724/218585012-f11b216b-38e8-4be7-9f8e-7da95623f4f1.png)
+version XML Spring
+![image](https://user-images.githubusercontent.com/101254724/219874589-ce0c325c-e271-4e72-8e59-4b5a4820143b.png)
+version annotation 
